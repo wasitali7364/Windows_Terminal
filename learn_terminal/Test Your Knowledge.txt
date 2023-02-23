@@ -1,0 +1,20 @@
+Test Your Knowledge
+
+1. Open the terminal application
+2. Show the current path of your working directory
+3. Create a new directory named pb_terminal/
+4. Change into the pb_terminal/ directory
+5. Show the current path of your working directory
+6. Create a new file named hello _ terminal.py
+7. List the contents of the pb_terminal/ directory
+8. Add print("Hello, Terminal!) to hello-terminal. py without opening an editor
+10. Run hello_terminal.py
+11. Show the contents of hello-terminal.py
+12. Copy hello_terminal.py into a subdirectory named hello/
+13. Change into hello/ and list the contents
+14. Change back into pb_terminal/
+15. Rename hello_terminal.py to hello_world.py
+16. Replace the content of hello_world.py with print( "Hello,
+hello_world.py")
+17. Run hello/hello_terminal.py
+18. Run hello/hello_world.py

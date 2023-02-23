@@ -1,0 +1,31 @@
+Command Promt and Windows Shell is also Terminal But Outdated.
+
+Install Terminal From Microsoft Store.
+
+Commands:
+
+pwd (print working directory) - shows the current path
+
+mkdir (make directory) - Creates a folder. ex:- mkdir <folder_name>
+
+cd (change directory) - move into different folder. ex:- cd <folder_name>
+
+ni (new-item) - Create a new file. ex:- ni <name_of_the_file_with_extension>
+
+ls (list) - list items in currend directory. ex:- ls
+
+clear - clears everything on the terminal.
+
+(Adding Content to a file) - echo "print('Hello, Terminal!')" > hello_terminal.py
+
+cat - Showing & Editing the content of a file. ex:- cat .\hello_terminal.py or cat hello_terminal.py (use tab key to auto fill long name of the file)
+
+(Running Python File) - ex:- python <name_of_the_file>
+
+cp (copy-item) - Copy Item From One Place to Another. ex:- cp <file_to_copy> <destination_folder>
+
+(Navigating Directories) - cd <folder_name> (cd hello) or cd <full_path> (cd C:\Users\wasit.ali\learn_terminal or cd .. (here .. means parent directory & . means current directory)
+
+rename-item - Renaming Files ex:- rename-item <old_name> <new_name> or ren <old_name> <new_name> (ren hello_terminal.py hello_world.py)
+
+(updating file content) - echo "print('Hello World!')" > hello_world.py
